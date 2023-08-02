@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843515707465",
+    "project_id": "bus-tracking-application-86342",
+    "storage_bucket": "bus-tracking-application-86342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843515707465:android:a22c7e016c7ce22a11bf98",
+        "android_client_info": {
+          "package_name": "com.example.college_bus_managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843515707465-vqmo2rfb7jc7ojjaa6q51ukjhl03il5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAby_lX512-dbdFmjKlCiO9htE5sTGp9D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843515707465-vqmo2rfb7jc7ojjaa6q51ukjhl03il5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
